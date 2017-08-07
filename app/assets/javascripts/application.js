@@ -13,6 +13,8 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+//= jquery3  
 //= require bootstrap-sprockets
+//= require ckeditor/init
 @import "bootstrap-sprockets";
 @import "bootstrap";
